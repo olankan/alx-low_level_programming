@@ -1,10 +1,8 @@
-#include <stdio.h> 
-
-/** 
-* main - Entry point 
-* Description: printing the size of byte on each computer 
+#include <stdio.h>
+/**
+* main - Entry point
+* Description: printing the size of byte on each computer
 * Return: 0 */
-
 int main(void)
 {
 printf("Size of a char: %lu byte(s)\n", sizeof(char));
