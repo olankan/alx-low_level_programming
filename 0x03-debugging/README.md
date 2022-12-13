@@ -1,1 +1,1 @@
-c debugging
+debugging in C programming
