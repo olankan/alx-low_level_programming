@@ -1,1 +1,1 @@
-ghhh
+more pointers, arrays and strings
